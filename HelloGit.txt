@@ -1,2 +1,0 @@
-Hello, Git!
-This line will be displayed when executing git diff.
