@@ -15,6 +15,9 @@ int _tmain(int argc, _TCHAR* argv[])
 
 	cout << "Modified SimpleC.cpp again" << "\n";
 
+	cout << "Modified SimpleC.cpp for 4th commit" << "\n";
+
+
 	return 0;
 }
 
